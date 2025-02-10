@@ -1,2 +1,2 @@
-# sweperla.github.io
-My personal website
+# 2407076.github.io
+Learning GitHub is fun.
