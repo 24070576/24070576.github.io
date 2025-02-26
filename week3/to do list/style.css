@@ -1,0 +1,7 @@
+h1{color: green;}
+h2{color: blue;text-decoration: underline;}
+p{color: blue;}
+.uppercase {
+    text-transform: uppercase;
+}
+.special {}
