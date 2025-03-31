@@ -1,0 +1,39 @@
+/* styles.css */
+.navbar {
+    background-color: #007bff;
+}
+
+.navbar-brand, .nav-link {
+    color: white !important;
+}
+
+.hero-section {
+    background-color: #f8f9fa;
+    padding: 60px 20px;
+}
+
+.hero-section h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.hero-section p {
+    font-size: 1.2rem;
+    color: #666;
+}
+
+.content-section {
+    padding: 40px 0;
+}
+
+.content-section img {
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
